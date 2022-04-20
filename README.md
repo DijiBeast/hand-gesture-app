@@ -1,1 +1,1 @@
-# hand-gesture-app
+# hand-gesture-application
